@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pymongo
+scikit-learn
+pandas
+numpy
+nltk
+spacy
+python-multipart
+pdfplumber
+docx2txt
+pydantic
+motor

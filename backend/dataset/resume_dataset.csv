@@ -1,0 +1,15 @@
+resume_text,job_description,skills,experience,education,match_label
+"Experienced Python developer with 5 years in backend development using FastAPI and MongoDB. Skilled in Docker and AWS.","Looking for a backend engineer with Python, FastAPI, and MongoDB experience. Cloud experience is a plus.","python, fastapi, mongodb, docker, aws","5 years","BS Computer Science",1
+"Frontend engineer with React and Vue expertise. Strong in HTML, CSS, JavaScript.","We need a backend developer skilled in Python, Django, and SQL.","react, vue, html, css, javascript","3 years","BSc IT",0
+"Data Scientist proficient in Python, Machine Learning, scikit-learn, pandas. Building NLP models.","Data Scientist needed with Machine Learning, NLP, and Python. Scikit-learn required.","python, machine learning, nlp, scikit-learn, pandas","4 years","MS Data Science",1
+"Graphic designer with 4 years experience in Photoshop and Illustrator.","Looking for a Data Scientist with Machine Learning and Python experience.","photoshop, illustrator","4 years","BA Design",0
+"Full stack developer. React, Node.js, Express, MongoDB. AWS deployed.","Full stack engineer wanted: Node.js, React, MongoDB. AWS knowledge preferred.","react, node.js, express, mongodb, aws","2 years","BS Computer Engineering",1
+"Recent graduate with basic Java knowledge.","Senior Java Developer with 8+ years experience in Spring Boot and Microservices.","java","0 years","BS Computer Science",0
+"DevOps engineer. Kubernetes, Docker, Jenkins, CI/CD, Terraform.","DevOps needed. Must know Kubernetes, Docker, and CI/CD pipelines.","kubernetes, docker, jenkins, ci/cd, terraform","6 years","BSc CS",1
+"Project Manager with Agile and Scrum certifications.","Need a Java Spring Boot developer for microservices architecture.","agile, scrum","5 years","MBA",0
+"Machine Learning Engineer. PyTorch, TensorFlow, Python, NLP.","ML Engineer. PyTorch or TensorFlow, Python. NLP experience required.","pytorch, tensorflow, python, nlp","3 years","MS CS",1
+"Sales associate with 10 years experience in retail.","Machine Learning Engineer. PyTorch or TensorFlow, Python. NLP experience required.","sales, communication","10 years","High School",0
+"Python, SQL, Data Analysis, Pandas, NumPy.","Data Analyst. Must know Python, Pandas, SQL.","python, sql, data analysis, pandas, numpy","2 years","BS Math",1
+"Marketing specialist with SEO and content creation skills.","Data Analyst. Must know Python, Pandas, SQL.","seo, marketing, content","3 years","BA Marketing",0
+"AWS Cloud Architect. Terraform, EC2, S3, IAM.","Cloud Architect. AWS required. Terraform experience is a must.","aws, terraform, ec2, s3, iam","7 years","MS IT",1
+"C++ Game Developer. Unreal Engine, 3D math.","Cloud Architect. AWS required. Terraform experience is a must.","c++, unreal engine, math","4 years","BS CS",0
